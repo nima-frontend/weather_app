@@ -1,5 +1,5 @@
 # weather_app
-**Weather app made by open weather API with pure js**
+**Weather app made powered by open weather API with vanilla js**
 
 ![weather_app](https://github.com/user-attachments/assets/6308bd71-c114-49e3-a545-eb92bd4b73fd)
 - [Demo Project](https://nima-frontend.github.io/weather_app/)
