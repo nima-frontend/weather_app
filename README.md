@@ -1,7 +1,7 @@
 # weather_app
 **Weather app made by open weather API with pure js**
 ![portfolio](https://github.com/user-attachments/assets/ff73f7b1-9195-40d4-8ce0-f13c7cfc31fd)
-- [Demo Project]( https://nima-frontend.github.io/portfolio/)
+- [Demo Project](https://nima-frontend.github.io/weather_app/)
 - Developed by Nima Pourdad
 - Created - 2025-4-8
 - Technologies Used - Html , css , JS 
